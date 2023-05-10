@@ -1,0 +1,3 @@
+selenium
+SpeechRecognition
+pyttsx3
