@@ -1,8 +1,10 @@
-<img src="image.png" align="right" width="40%"/>
+
 
 # Voice-Controlled Virtual Rubik's Cube
 
 This repo contains the code for a virtual Rubik's cube that is controlled by voice. Report for this project can be found [here](https://andrewbae.me/files/virtual_cube_report.pdf).
+
+<img src="image.png"  width="40%"/>
 
 ## How to use
 
