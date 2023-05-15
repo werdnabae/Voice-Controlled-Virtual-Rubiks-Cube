@@ -1,4 +1,4 @@
-<img src="/figures/image.png" align="right" width="40%"/>
+<img src="image.PNG" align="right" width="40%"/>
 
 # Voice-Controlled Virtual Rubik's Cube
 
